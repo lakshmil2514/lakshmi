@@ -1,0 +1,13 @@
+C:\Users\lakshmi.l\source\repos\Example\example\bin\Debug\netcoreapp3.1\example.exe
+C:\Users\lakshmi.l\source\repos\Example\example\bin\Debug\netcoreapp3.1\example.deps.json
+C:\Users\lakshmi.l\source\repos\Example\example\bin\Debug\netcoreapp3.1\example.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\Example\example\bin\Debug\netcoreapp3.1\example.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\Example\example\bin\Debug\netcoreapp3.1\example.dll
+C:\Users\lakshmi.l\source\repos\Example\example\bin\Debug\netcoreapp3.1\example.pdb
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.dll
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.pdb
+C:\Users\lakshmi.l\source\repos\Example\example\obj\Debug\netcoreapp3.1\example.genruntimeconfig.cache
