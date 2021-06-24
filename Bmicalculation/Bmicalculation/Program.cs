@@ -22,15 +22,17 @@ namespace Bmicalculation
             BMI = kg / m * 2;
 
             if (BMI < 18.5 )
-            { Console.WriteLine("-> Underweight"); }
+            { 
+                Console.WriteLine("-> Underweight");
+            }
             if (BMI >=19 & BMI <= 24)
-            { Console.WriteLine("-> Healthy"); }
+            {
+                Console.WriteLine("-> Healthy");
+            }
             if (BMI >=25)
-            { Console.WriteLine("-> Overweight"); }
-
-           
-
-          
+            { 
+                Console.WriteLine("-> Overweight");
+            }
         }
     }
 }
