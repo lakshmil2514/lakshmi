@@ -1,2 +1,0 @@
-# identify-objects
-Template Repository
